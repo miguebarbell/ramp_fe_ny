@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/miguebarbell.github.io/ramp_fe_ny/static/js/main.b43af376.js",
-    "static/js/453.2af35294.chunk.js": "/miguebarbell.github.io/ramp_fe_ny/static/js/453.2af35294.chunk.js",
-    "index.html": "/miguebarbell.github.io/ramp_fe_ny/index.html",
-    "main.b43af376.js.map": "/miguebarbell.github.io/ramp_fe_ny/static/js/main.b43af376.js.map",
-    "453.2af35294.chunk.js.map": "/miguebarbell.github.io/ramp_fe_ny/static/js/453.2af35294.chunk.js.map"
+    "main.js": "/ramp_fe_ny/static/js/main.e049845e.js",
+    "static/js/453.2af35294.chunk.js": "/ramp_fe_ny/static/js/453.2af35294.chunk.js",
+    "index.html": "/ramp_fe_ny/index.html",
+    "main.e049845e.js.map": "/ramp_fe_ny/static/js/main.e049845e.js.map",
+    "453.2af35294.chunk.js.map": "/ramp_fe_ny/static/js/453.2af35294.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b43af376.js"
+    "static/js/main.e049845e.js"
   ]
 }
