@@ -1,5 +1,4 @@
 import React, {useEffect, useState} from "react";
-import "./App.css";
 
 function App() {
     const challengeUrl: string = "https://tns4lpgmziiypnxxzel5ss5nyu0nftol.lambda-url.us-east-1.on.aws/challenge";
@@ -24,9 +23,6 @@ function App() {
     useEffect(() => {
         fetch(url)
             .then(res => res.text())
-            // .then(res => {
-            //     console.log(parser.parseFromString(res, "text/xml"));
-            // })
             .then(res => {
                 if (res.at(0) !== "<") {
                     setWord(res);
